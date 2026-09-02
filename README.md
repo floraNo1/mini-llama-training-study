@@ -1,6 +1,8 @@
 # Mini Llama Training Study
 
-> An educational experiment that initializes a small Llama-style causal language model from configuration and trains it on a subset of TinyStoriesV2.
+> **Earlier undergraduate learning project, retained for record.**
+>
+> This is a small Llama-style training exercise, not a faithful reproduction of Meta Llama 3.
 
 本项目来自山东大学（威海）数据科学实验班课程实践。它的目标不是复现完整规模的 Meta Llama 3，也不是逐层手写 Transformer，而是用 Hugging Face Transformers 搭建一个尺寸较小、结构可检查的 Llama-style 模型，并演示从随机初始化到语言模型训练的基本流程。
 
@@ -143,3 +145,4 @@ This is a **small training study**, not a faithful reproduction of Meta Llama 3 
 ## Original course context
 
 The initial repository documented a group study of Llama architecture and a small training experiment. This reorganized version keeps those notes while making the executable path, generated artifacts, and scientific claim boundary easier to understand.
+
